@@ -1,2 +1,2 @@
 # FreeCodeCampArticles
-This repo contains assets used to make pull request to Free Code Camp.
+This repo contains assets used in making pull request to Free Code Camp.
